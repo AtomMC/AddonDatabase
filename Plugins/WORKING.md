@@ -5,7 +5,7 @@
 Make sure Plugman is installed and running.
 Run **/plugman dump** in the console
 
-``
+``text
 Essentials v2.15.0.17
 EssentialsAntiBuild v2.15.0.17
 EssentialsChat v2.15.0.17
